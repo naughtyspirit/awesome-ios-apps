@@ -12,9 +12,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
       <img src="http://a5.mzstatic.com/us/r30/Purple5/v4/58/e0/2c/58e02cbd-b985-f635-f9f7-63e64e896fa6/icon175x175.jpeg" width="96px" height="96px"/>
     </td>
     <td>
-      <a href="https://itunes.apple.com/us/app/id883338188">
-        <h2>Evernote Scannable</h2>
-      </a>
+      <h2><a href="https://itunes.apple.com/us/app/id883338188">Evernote Scannable</a></h2>
       <p>Scan contracts, receipts, business cards, and any paper that comes your way.</p>
     </td>
   </tr>
