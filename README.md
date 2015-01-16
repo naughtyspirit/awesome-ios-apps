@@ -8,7 +8,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
 
 <table>
   <tr>
-    <td><img src="http://a4.mzstatic.com/us/r30/Purple3/v4/4c/47/80/4c47803d-970c-c561-c31d-628cf19e3c1a/icon175x175.jpeg" width="48px" height="48px"/><td>Everalbum</td>
+    <td><img src="http://a4.mzstatic.com/us/r30/Purple3/v4/4c/47/80/4c47803d-970c-c561-c31d-628cf19e3c1a/icon175x175.jpeg" width="48px" height="48px"/><td><h2>Everalbum</h2><p>Protect your photos and videos</p></td>
   </tr>
 </table>
 
