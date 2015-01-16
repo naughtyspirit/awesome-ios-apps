@@ -9,13 +9,24 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
 <table border="0">
   <tr>
     <td>
+      <img src="http://a2.mzstatic.com/us/r30/Purple3/v4/b0/44/24/b04424b0-ef88-b7d1-525e-08a28645c190/icon175x175.jpeg" width="96px" height="96px"/>
+    </td>
+    <td>
+      <h2>
+        <a href="http://bit.ly/1y75Kde">FancyKey</a>
+      </h2>
+      <p>Personalize your keyboard with cool Fonts, colorful themes and beautiful Emoji Art</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="http://a1290.phobos.apple.com/us/r30/Purple3/v4/8c/68/75/8c6875d8-385d-9c94-f985-6e1d97ff460c/pr_source.114x114-75.jpg" width="96px" height="96px"/>
     </td>
     <td>
       <h2>
-        <a href="bit.ly/17RakCJ">Themeboard</a>
+        <a href="http://bit.ly/17RakCJ">Themeboard</a>
       </h2>
-      <p>Quality keyboard themes from the best designers and illustrators from all over the world. </p>
+      <p>Quality keyboard themes from the best designers and illustrators from all over the world.</p>
     </td>
   </tr>
 </table>
