@@ -15,7 +15,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
       <h2>
         <a href="http://bit.ly/1y75Kde">FancyKey</a>
       </h2>
-      <p>Personalize your keyboard with cool Fonts, colorful themes and beautiful Emoji Art</p>
+      <p>Personalize your keyboard with cool Fonts, themes and beautiful Emoji Art</p>
     </td>
   </tr>
   <tr>
@@ -26,7 +26,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
       <h2>
         <a href="http://bit.ly/17RakCJ">Themeboard</a>
       </h2>
-      <p>Quality keyboard themes from the best designers and illustrators from all over the world.</p>
+      <p>Quality keyboard themes from the best designers from all over the world.</p>
     </td>
   </tr>
 </table>
