@@ -1,8 +1,24 @@
 # Awesome iOS apps
-A curated list of awesome iOS apps with great UI and UX. Including cool open source apps.
+A curated list of awesome useful iOS apps with great UI and UX. Including cool open source apps. Find the best new apps, every day!
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob/master/CONTRIBUTING.md) for details.
+
+## Personalization
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="http://a1290.phobos.apple.com/us/r30/Purple3/v4/8c/68/75/8c6875d8-385d-9c94-f985-6e1d97ff460c/pr_source.114x114-75.jpg" width="96px" height="96px"/>
+    </td>
+    <td>
+      <h2>
+        <a href="bit.ly/17RakCJ">Themeboard</a>
+      </h2>
+      <p>Quality keyboard themes from the best designers and illustrators from all over the world. </p>
+    </td>
+  </tr>
+</table>
 
 ## Productivity
 
@@ -12,7 +28,9 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
       <img src="http://a5.mzstatic.com/us/r30/Purple5/v4/58/e0/2c/58e02cbd-b985-f635-f9f7-63e64e896fa6/icon175x175.jpeg" width="96px" height="96px"/>
     </td>
     <td>
-      <h2><a href="https://itunes.apple.com/us/app/id883338188">Evernote Scannable</a></h2>
+      <h2>
+        <a href="https://itunes.apple.com/us/app/id883338188">Evernote Scannable</a>
+      </h2>
       <p>Scan contracts, receipts, business cards, and any paper that comes your way.</p>
     </td>
   </tr>
@@ -21,9 +39,9 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
       <img src="http://a4.mzstatic.com/us/r30/Purple3/v4/4c/47/80/4c47803d-970c-c561-c31d-628cf19e3c1a/icon175x175.jpeg" width="96px" height="96px"/>
     </td>
     <td>
-      <a href="https://itunes.apple.com/app/id703177890">
-        <h2>Everalbum</h2>
-      </a>
+        <h2>
+          <a href="https://itunes.apple.com/app/id703177890">Everalbum</a>
+        </h2>
       <p>Protect your photos and videos</p>
     </td>
   </tr>
