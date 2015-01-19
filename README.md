@@ -36,6 +36,28 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
 <table border="0">
   <tr>
     <td>
+      <img src="http://a5.mzstatic.com/us/r30/Purple3/v4/78/2e/1c/782e1c60-581b-2086-b706-fa46f2a491cd/icon175x175.jpeg" width="96px" height="96px"/>
+    </td>
+    <td>
+      <h2>
+        <a href="http://bit.ly/17YrAGi">Any.do</a>
+      </h2>
+      <p>Simple To-Do List, Daily Task Manager & Checklist Organizer.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://a3.mzstatic.com/us/r30/Purple/v4/c3/59/63/c3596384-24fa-d6c6-7f0e-c7a367c96acf/icon220x220.jpeg" width="96px" height="96px"/>
+    </td>
+    <td>
+      <h2>
+        <a href="http://bit.ly/17YrAGi">Awesome Note</a>
+      </h2>
+      <p>Experience the most innovative All-in-One Life Organizer..</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="http://a5.mzstatic.com/us/r30/Purple5/v4/58/e0/2c/58e02cbd-b985-f635-f9f7-63e64e896fa6/icon175x175.jpeg" width="96px" height="96px"/>
     </td>
     <td>
