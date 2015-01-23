@@ -91,7 +91,6 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
   </tr>
 </table>
 
-
 ## Finance
 
 <table border="0">
@@ -103,7 +102,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
             <h2>
             <a href="http://bit.ly/1wq0lJ3">Moneythink</a>
             </h2>
-            <p>Moneythink challenges you to prove your financial skills.</p>
+            <p style="font-size: 12px">Moneythink challenges you to prove your financial skills.</p>
         </td>
     </tr>
     <tr>
@@ -114,7 +113,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
             <h2>
             <a href="http://bit.ly/1wq0jAV">MSN Money</a>
             </h2>
-            <p>Grow your finances and know more about your money with the worlds best financial news and data.</p>
+            <p style="font-size: 12px">Grow your finances and know more about your money with the worlds best financial news and data.</p>
         </td>
     </tr>
     <tr>
@@ -125,7 +124,173 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
             <h2>
             <a href="http://bit.ly/1zz2Lw2">shakeandpay</a>
             </h2>
-            <p>shakeandpay is a easy to use tool to split shared costs with friends or roommates.</p>
+            <p style="font-size: 12px">shakeandpay is a easy to use tool to split shared costs with friends or roommates.</p>
+        </td>
+    </tr>
+</table>
+
+## Education
+
+<table border="0">
+    <tr>
+        <td>
+            <img src="http://a1.mzstatic.com/us/r30/Purple5/v4/14/f5/d4/14f5d4e1-7dfc-82a0-cbea-574dd87c4b1b/icon220x220.png" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2KrZ">Endless Wordplay</a>
+            </h2>
+            <p style="font-size: 12px">Endless Wordplay is educational and funny app for beginning spellers and early writers.</p>
+        </td>
+    </tr>
+</table>
+
+## Catalogs
+
+<table border="0">
+    <tr>
+        <td>
+            <img src="http://a1.mzstatic.com/us/r30/Purple5/v4/da/11/bc/da11bc26-b572-ea29-45ad-a82b8101b243/icon220x220.png" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2Ks5">Tattoos Design</a>
+            </h2>
+            <p style="font-size: 12px">Discover body art you&#x27;ll want to wear forever with Tattoo Design app for iPhone.</p>
+        </td>
+    </tr>
+</table>
+
+## Music
+
+<table border="0">
+    <tr>
+        <td>
+            <img src="http://a5.mzstatic.com/us/r30/Purple3/v4/e8/b4/41/e8b4415c-fb73-ed09-5007-f57401d89ca4/icon220x220.png" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2MjK">MusicKata</a>
+            </h2>
+            <p style="font-size: 12px">MusicKata help student and professional musicians to get the most out of their practice sessions.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="http://a1.mzstatic.com/us/r30/Purple1/v4/fd/8e/57/fd8e57e1-a0f8-68e5-8eb9-ac59fa60c44d/icon220x220.png" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2MA4">ClickaSound free music shared</a>
+            </h2>
+            <p style="font-size: 12px">ClickaSound allows you to listen and share free copyleft music available in the Internet.</p>
+        </td>
+    </tr>
+</table>
+
+## Books
+
+<table border="0">
+    <tr>
+        <td>
+            <img src="http://a4.mzstatic.com/us/r30/Purple3/v4/2f/62/94/2f6294a2-9113-93b0-926e-eeb88861e5c2/icon220x220.png" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2MA8">Manga Storm CBR - The Ultimate Comic Book Reader</a>
+            </h2>
+            <p style="font-size: 12px">Manga Storm is nice app to read your collection of comics,manga,manwha,webtoons in CBR/CBZ files.</p>
+        </td>
+    </tr>
+</table>
+
+## Medical
+
+<table border="0">
+    <tr>
+        <td>
+            <img src="http://a3.mzstatic.com/us/r30/Purple3/v4/ed/d5/8a/edd58a27-c0c8-c0e1-1464-55f0c5ad2e28/icon220x220.png" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2KIK">HealthLoop+ MD</a>
+            </h2>
+            <p style="font-size: 12px">HealthLoop is changing how healthcare is delivered.The app try to improve patent satisfaction.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="http://a4.mzstatic.com/us/r30/Purple3/v4/fd/50/a1/fd50a1ed-e728-a9fc-11f3-6b936e46e6d8/icon220x220.jpeg" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2MQD">HELP+</a>
+            </h2>
+            <p style="font-size: 12px">HELP+ App let&#x27;s you search for the appropriate medical service providers in your area.</p>
+        </td>
+    </tr>
+</table>
+
+## Lifestyle
+
+<table border="0">
+    <tr>
+        <td>
+            <img src="http://a3.mzstatic.com/us/r30/Purple1/v4/9c/93/86/9c9386b7-32c2-ddc7-76c4-abf0a66fff55/icon220x220.jpeg" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2KZd">P5D: Kitchen Design 3D</a>
+            </h2>
+            <p style="font-size: 12px">Create your dream kitchen design in minutes with no training and no complicated manuals! iPad only.</p>
+        </td>
+    </tr>
+</table>
+
+## Weather
+
+<table border="0">
+    <tr>
+        <td>
+            <img src="http://a1.mzstatic.com/us/r30/Purple3/v4/be/f7/bd/bef7bde4-0ca1-65c7-9d35-133e303baeb9/icon220x220.png" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2MQF">Weather It!</a>
+            </h2>
+            <p style="font-size: 12px">Checking todays Forecast is now fun and personal with &quot;Weather it!&quot;.</p>
+        </td>
+    </tr>
+</table>
+
+## Games
+
+<table border="0">
+    <tr>
+        <td>
+            <img src="http://a2.mzstatic.com/us/r30/Purple1/v4/d2/4c/3e/d24c3e5b-8265-5af1-e717-93c3b7341d12/icon220x220.jpeg" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2LfG">Shadowmatic</a>
+            </h2>
+            <p style="font-size: 12px">Use abstract objects to find recognizable silhouettes. Have fun with Shadowmatic.</p>
+        </td>
+    </tr>
+</table>
+
+## Health &amp; Fitness
+
+<table border="0">
+    <tr>
+        <td>
+            <img src="http://a1.mzstatic.com/us/r30/Purple3/v4/89/fd/24/89fd2408-e05f-48e9-0619-5dd33a8699bb/icon220x220.png" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2MQL">Instant Blood Pressure - Monitor Blood Pressure Using Only Your Phone</a>
+            </h2>
+            <p style="font-size: 12px">Instant Blood Pressure lets you measure your blood pressure using only your iPhone.</p>
         </td>
     </tr>
 </table>
