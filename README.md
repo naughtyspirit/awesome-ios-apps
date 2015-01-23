@@ -97,7 +97,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
 <table border="0">
     <tr>
         <td>
-            <img src="http://a2.mzstatic.com/us/r30/Purple3/v4/13/31/85/133185a5-812e-96c2-4a63-f37e5860c55f/icon220x220.png" width="125px" height="96px"/>
+            <img src="http://a2.mzstatic.com/us/r30/Purple3/v4/13/31/85/133185a5-812e-96c2-4a63-f37e5860c55f/icon220x220.png" width="96px" height="96px"/>
         </td>
         <td>
             <h2>
