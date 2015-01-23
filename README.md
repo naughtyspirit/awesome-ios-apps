@@ -115,7 +115,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
             <h2>
             <a href="http://bit.ly/1wq0jAV">MSN Money</a>
             </h2>
-            <p>Grow your finances and know more about your money with the world�s best financial news and data.</p>
+            <p>Grow your finances and know more about your money with the world`s best financial news and data.</p>
         </td>
     </tr>
 
@@ -159,7 +159,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
             <h2>
             <a href="http://bit.ly/1zz2Ks5">Tattoos Design</a>
             </h2>
-            <p>Discover body art you&#x27;ll want to wear forever with Tattoo Design app for iPhone.</p>
+            <p>Discover body art you`ll want to wear forever with Tattoo Design app for iPhone.</p>
         </td>
     </tr>
 </table>
@@ -263,7 +263,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
             <h2>
             <a href="http://bit.ly/1zz2MQF">Weather It!</a>
             </h2>
-            <p>Checking today�s Forecast is now fun and personal with &quot;Weather it!&quot;.</p>
+            <p>Checking today`s Forecast is now fun and personal with &quot;Weather it!&quot;.</p>
         </td>
     </tr>
 </table>
