@@ -106,6 +106,40 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
             <p>Moneythink challenges you to prove your financial skills.</p>
         </td>
     </tr>
+    
+    <tr>
+        <td>
+            <img src="http://a4.mzstatic.com/us/r30/Purple5/v4/7b/41/47/7b414718-032c-7e84-b48b-e017615d816d/icon220x220.png" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1wq0jAV">MSN Money</a>
+            </h2>
+            <p>Grow your finances and know more about your money with the worlds best financial news and data.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="http://a4.mzstatic.com/us/r30/Purple5/v4/7b/41/47/7b414718-032c-7e84-b48b-e017615d816d/icon220x220.png" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1wq0jAV">MSN Money</a>
+            </h2>
+            <p>Grow your finances and know more about your money with the worlds best financial news and data.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="http://a3.mzstatic.com/us/r30/Purple1/v4/ff/5e/a0/ff5ea0c9-f871-ef62-61b4-7e22c1b363c0/icon220x220.jpeg" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="http://bit.ly/1zz2Lw2">shakeandpay</a>
+            </h2>
+            <p>shakeandpay is a easy to use tool to split shared costs with friends or roommates.</p>
+        </td>
+    </tr>
 </table>
 
 ## Open Source
