@@ -230,7 +230,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
         </td>
         <td>
             <h2>
-            <a href="http://bit.ly/1JgCnJe">testimo</a>
+            <a href="http://bit.ly/1JgCnJe">Testimo</a>
             </h2>
             <p>testimo is a free app that lets you send interactions to people.</p>
         </td>
