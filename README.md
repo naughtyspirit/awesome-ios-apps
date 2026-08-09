@@ -338,6 +338,17 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
             <p>Welcome to a healthier life... with a little help from the YAZIO Calorie Counter &amp; Diet Tracker!</p>
         </td>
     </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/7f/59/217f5960-be89-9a6c-bdfe-90a11c03dcc8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921">SproutGuard: Screen Time Detox</a>
+            </h2>
+            <p>Reduce doomscrolling with Screen Time app blocking, focus rules, and daily streaks.</p>
+        </td>
+    </tr>
 </table>
 
 ## Photo &amp; Video
