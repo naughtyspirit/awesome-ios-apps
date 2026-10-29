@@ -338,6 +338,17 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-apps/blob
             <p>Welcome to a healthier life... with a little help from the YAZIO Calorie Counter &amp; Diet Tracker!</p>
         </td>
     </tr>
+    <tr>
+        <td width="125px" height="125px">
+            <img src="https://ripplefocus.github.io/logo.png" width="96px" height="96px"/>
+        </td>
+        <td>
+            <h2>
+            <a href="https://ripplefocus.github.io/en/ios/">Ripple - Screen Time Blocker for Families</a>
+            </h2>
+            <p>Ripple uses the Screen Time API on iOS 16+ to block apps on a schedule, stop the app from being deleted and ignore clock changes, with an 8 digit parent unlock code. Also on Android.</p>
+        </td>
+    </tr>
 </table>
 
 ## Photo &amp; Video
